@@ -7,3 +7,4 @@
 [naked_tripple_1](https://github.com/user-attachments/assets/3cb57172-7f03-43a4-b09a-f4c7bad09ac9)
 [naked_tripple_2](https://github.com/user-attachments/assets/a4391b48-df4a-4c39-9888-4002a999a8f3)
 [getting_bot_token](https://github.com/user-attachments/assets/3e0870c6-8329-4351-a252-d9ef27c4d3e5)
+[image](https://github.com/user-attachments/assets/cf991e37-1783-4c47-b057-527e6b3085ff)
